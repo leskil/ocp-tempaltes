@@ -1,2 +1,2 @@
-# ocp-tempaltes
+# ocp-templates
 Various OpenShift templates
