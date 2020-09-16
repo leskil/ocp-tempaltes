@@ -168,7 +168,7 @@ objects:
         storage: ${SONAR_VOLUME_CAPACITY}
 parameters:
 - displayName: SonarQube version
-  value: "7.9.4-community"
+  value: "8.4.2-community"
   name: SONARQUBE_VERSION
   required: true
 - description: Volume space available for SonarQube
